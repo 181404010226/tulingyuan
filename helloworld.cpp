@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	// 这是一个helloworld程序
+	// 这是一个helloworld程序，修改
     printf("Hello, World!\n");
     return 0;
 }
