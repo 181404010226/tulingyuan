@@ -2,6 +2,6 @@
 
 int main() {
 	// 这是一个helloworld程序，修改
-    printf("Hello, World!\n");
+    printf("Hello,the World!\n");
     return 0;
 }
